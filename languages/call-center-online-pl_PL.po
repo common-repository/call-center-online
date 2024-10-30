@@ -1,0 +1,2 @@
+msgid "Zostaw wiadomość - ODDZWONIMY."
+msgstr "Zostaw wiadomość - ODDZWONIMY!!!!!!!!!!!!!!!"
